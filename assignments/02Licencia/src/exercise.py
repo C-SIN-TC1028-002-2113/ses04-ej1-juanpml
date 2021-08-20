@@ -10,7 +10,7 @@ def main():
         elif a == "n":
          print ("No cumples requisitos")
         else:
-             print ("Respuesta Incorrecta")
+             print ("Respuesta incorrecta")
         
 
 if __name__ == '__main__':
